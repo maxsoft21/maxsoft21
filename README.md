@@ -1,6 +1,6 @@
 **Hola, me llamo Max 👋**
 
-Soy un desarrollador de software de Perú 🇵🇪 especializado en Java y Angular 📱💻. También he creado algunas cosas interesantes con C #😎.
+Soy un desarrollador de software de Perú 🇵🇪 especializado en Java y Angular 📱💻. También he creado algunas cosas interesantes con react, nodejs, C #😎.
 
 Amante del código limpio, apasionado por la innovación y con ganas de convertirse en arquitecto de software 🎯.
 
